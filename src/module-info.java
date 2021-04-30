@@ -1,0 +1,3 @@
+module GitHubNew {
+	exports Test;
+}
